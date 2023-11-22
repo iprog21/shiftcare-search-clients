@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# Compiled files
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
